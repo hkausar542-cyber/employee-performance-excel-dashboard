@@ -33,4 +33,4 @@ Track employee performance and find which departments perform best on score, att
 **Heena Kausar**
 
 - GitHub: [hkausar542-cyber](https://github.com/hkausar542-cyber)
-- LinkedIn: [Heena Kausar](https://www.linkedin.com/in/heena-kausar/)
+- LinkedIn: [Heena Kausar](https://www.linkedin.com/in/heena-kausar-256331301/)
